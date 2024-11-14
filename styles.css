@@ -1,5 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* temp style */
 body {
-  background-color: #4a5568;
+  background-color: green;
+}
+
+section {
+  background-color: hsl(212, 45%, 89%);
+  width: 1440px;
+  height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .attribution {
@@ -8,4 +22,10 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+article {
+  /* background-color: black; */
+
+  /* align-items: center; */
 }
