@@ -11,13 +11,13 @@ html {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  /* background-color: green; */
+  font-size: 15px;
 }
 
-/* This includes both the image and texts */
 section {
   background-color: hsl(212, 45%, 89%);
-  width: 1440px;
+  /* width: 1440px; */
+  width: 75vw;
   height: 100vh;
   margin-left: auto;
   margin-right: auto;
@@ -50,9 +50,17 @@ p {
   margin-top: 25px;
   margin-bottom: 25px;
   text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  /* font-weight: 400; */
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.article h1 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.article p {
+  color: rgb(100 116 139);
 }
 
 .attribution {
