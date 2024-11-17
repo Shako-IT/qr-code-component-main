@@ -15,15 +15,12 @@ html {
 }
 
 section {
+  display: flex;
   background-color: hsl(212, 45%, 89%);
   /* width: 1440px; */
   width: 75vw;
   height: 100vh;
-  margin-left: auto;
-  margin-right: auto;
-
-  display: flex;
-  justify-content: center;
+  margin: auto;
   align-items: center;
 }
 
@@ -69,4 +66,10 @@ p {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 375px) {
+  section {
+    height: 80vh;
+  }
 }
