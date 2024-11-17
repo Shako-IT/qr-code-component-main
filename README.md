@@ -24,7 +24,7 @@ This challenge requires to build a simple design file with QR code for desktop a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Shako-IT/qr-code-component-main.git)
+- Solution URL: [https://github.com/Shako-IT/qr-code-component-main.git]
 - Live Site URL: [Add live site URL here](https://shako-it.github.io/qr-code-component-main/)
 
 ## My process
