@@ -24,8 +24,8 @@ This challenge requires to build a simple design file with QR code for desktop a
 
 ### Links
 
-- Solution URL: [https://github.com/Shako-IT/qr-code-component-main.git]
-- Live Site URL: [Add live site URL here](https://shako-it.github.io/qr-code-component-main/)
+- Solution URL: https://github.com/Shako-IT/qr-code-component-main.git
+- Live Site URL: https://shako-it.github.io/qr-code-component-main
 
 ## My process
 
@@ -47,8 +47,6 @@ I look to be able to write better CSS, I need beeter understand of flexbod and C
 ### Useful resources
 
 - [Mozila Developers Network](https://developer.mozilla.org/en-US/) - This helped me to find some examples of code.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
